@@ -3,3 +3,4 @@
 In a variety of sizes.
 
 [Download the .zip file](https://github.com/OSLC/logo/archive/master.zip)
+[Download the legacy, archived file](link to be created) 
